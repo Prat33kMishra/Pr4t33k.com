@@ -12,7 +12,7 @@ url:                  https://romantic-colden-096780.netlify.app/
 # Use the empty string '' otherwise.
 # For GitHub project sites, this is usually the name of the project,
 # e.g. `/hydejack`.
-baseurl:               https://romantic-colden-096780.netlify.app/
+baseurl:               ''
 
 
 # General settings
@@ -23,19 +23,18 @@ baseurl:               https://romantic-colden-096780.netlify.app/
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Starter Kit
+title:                 Prateek Mishra
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Hydejack is a boutique Jekyll theme for hackers, nerds, and academics,
-  with a focus on personal sites that are meant to impress.
+  Prateek Mishra - 0xPrateek
 
 # A shorter description for the sidebar.
-tagline:               Change `tagline` in `_config.yml`
+tagline:               Prateek Mishra - 0xPrateek SideBar
 
 # A list of keywords for your blog
-keywords:              []
+keywords:              [0xPrateek, Prateek0x, Prateek Mishra]
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
