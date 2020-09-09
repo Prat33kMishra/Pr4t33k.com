@@ -31,7 +31,7 @@ description:           >
   Prateek Mishra - 0xPrateek
 
 # A shorter description for the sidebar.
-tagline:               Prateek Mishra - 0xPrateek SideBar
+tagline:               
 
 # A list of keywords for your blog
 keywords:              [0xPrateek, Prateek0x, Prateek Mishra]
@@ -39,7 +39,7 @@ keywords:              [0xPrateek, Prateek0x, Prateek Mishra]
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  /assets/img/logo.png
+logo:                  none
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
@@ -107,7 +107,7 @@ theme: jekyll-theme-hydejack
 # ----------------------------------------------------------------------------------------
  
 # Sidebar image and theme color of the site.
-accent_image:          /assets/img/sidebar-bg.jpg
+accent_image:          none
 accent_color:          rgb(79,177,186)
 
 # This is used for the `theme-color` meta tag,
